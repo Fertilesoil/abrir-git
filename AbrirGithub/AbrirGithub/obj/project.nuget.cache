@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9F2oKOBvpFB0bvB3YjaAUOfZW3kkzY7/4RoVBzeRQerBtTKhO2hdJ0+iaKtPq/ge7/6fghevDwQq4o7yAUKeUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Projetos\\Abrir Git\\AbrirGithub\\AbrirGithub\\AbrirGithub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\selenium.webdriver\\4.13.1\\selenium.webdriver.4.13.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
